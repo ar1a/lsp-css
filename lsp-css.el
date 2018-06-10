@@ -4,7 +4,6 @@
 
 ;; Author: George Pittarelli <g@gjp.cc>
 ;; Version: 1.0
-;; Package-Requires: ((lsp-css "1.0"))
 ;; Keywords: css less sass lsp
 ;; URL: https://github.com/emacs-lsp/lsp-css
 
